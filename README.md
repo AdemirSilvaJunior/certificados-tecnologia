@@ -12,7 +12,7 @@ Aqui estão alguns dos certificados mais recentes que conquistei:
 
 ### Navegação
 - [Python](#python-)
-- [GitHub](#github-github)
+- [GitHub](#github-)
 - [Data Science Academy](#data-science-academy-)
 - [Oracle](#oracle-)
 - [UNICSUL Superior em ADS](#unicsul-superior-em-ads-)
