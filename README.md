@@ -10,6 +10,13 @@ Sou **Ademir Silva Junior**, um entusiasta de tecnologia com uma paixão por apr
 
 Aqui estão alguns dos certificados mais recentes que conquistei:
 
+### Navegação
+- [Python](#python-)
+- [GitHub](#github-github)
+- [Data Science Academy](#data-science-academy-)
+- [Oracle](#oracle-)
+- [UNICSUL Superior em ADS](#unicsul-superior-em-ads-)
+
 ### Python 🐍
 
   **[Manipulando Strings com Python](https://raw.githubusercontent.com/AdemirSilvaJunior/certificados-tecnologia/main/DIO/PYTHON/Manipulando%20strings%20com%20Python.webp)**  
