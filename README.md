@@ -1,4 +1,7 @@
 # 🚀 Certificados de Tecnologia Ademir Silva Junior 🚀
+<h1 align="center">
+  <img src="https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg/" alt="Cabeçalho" width="1125" height="125">
+</h1>
 
 Bem-vindo ao meu repositório de certificados! Aqui você encontrará todos os certificados dos cursos de tecnologia que completei. 🌟
 
