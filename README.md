@@ -52,6 +52,19 @@ Aqui estão alguns dos certificados mais recentes que conquistei:
    **[Conhecendo Tuplas em Python](https://raw.githubusercontent.com/AdemirSilvaJunior/certificados-tecnologia/main/DIO/PYTHON/Conhecendo%20Tuplas%20em%20Python.webp)**  
   **Entendendo a imutabilidade das tuplas e aplicando isso com sabedoria.** 🔗
 
+  **[Explorando Conjuntos em Python](https://raw.githubusercontent.com/AdemirSilvaJunior/certificados-tecnologia/refs/heads/main/DIO/PYTHON/Explorando%20Conjuntos%20em%20Python.webp)**  
+  **Sim, agora já posso organizar uma coleção de dados única, nada de repetição por aqui! 🧐📚.** 🔗
+
+   **[Utilizando Dicionários em Python](https://raw.githubusercontent.com/AdemirSilvaJunior/certificados-tecnologia/refs/heads/main/DIO/PYTHON/Aprendendo%20a%20Utilizar%20Dicion%C3%A1rios%20em%20Python.webp)**  
+  **Porque toda chave tem seu valor (e, claro, eu encontrei todas elas! 🔑).**
+
+   **[Lidando com Data, Hora e Fuso Horário no Python ](https://raw.githubusercontent.com/AdemirSilvaJunior/certificados-tecnologia/refs/heads/main/DIO/PYTHON/Lidando%20com%20Data%2C%20Hora%20e%20Fuso%20Hor%C3%A1rio%20no%20Python.webp)**  
+  **Horas de diversão programando e manipulando fusos como um verdadeiro viajante no tempo! 🌍🕒.** 
+
+   **[Projeto Entregue: Sistema Bancário Python V2.0](https://github.com/AdemirSilvaJunior/sistema-bancario-python-V2.0.git)**  
+  **Agora com funções modulares, criação de contas e um sistema de bônus para quem gosta de números altos! 📈✨** 
+
+
 ### **GitHub** <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25" height="25">
 
   **[Contribuindo em um Projeto Open Source no GitHub](https://raw.githubusercontent.com/AdemirSilvaJunior/certificados-tecnologia/main/DIO/Github/Contribuindo%20em%20um%20Projeto%20Open%20Source%20no%20GitHub.webp)**  
